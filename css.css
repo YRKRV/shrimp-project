@@ -15,13 +15,14 @@ h1{
     color: #ffF; 
     position: relative; 
     top: -100px;
+    font-weight: 500;
 }
 h2{
-  background: rgba(0, 0, 0, 0.7); 
-  text-align: center; 
+  text-align: start; 
   color: #ffF;
   position: relative; 
-  top: -100px;
+  font-weight: 500;
+  
 }
 
 .lead {
@@ -40,7 +41,7 @@ h1, h2, p {
 
 table {
   width: 92%;
-  margin-left: auto;
+  margin: 10px
 } 
 
 caption {
